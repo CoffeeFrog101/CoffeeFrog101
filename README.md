@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Makkawi</h1>
 <h3 align="center">A passionate Software enginner from the UK</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/5124/screenshots/12296236/media/63d867b0df7a059f1f56a7b894f7d5a7.gif">
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/5124/screenshots/12296236/media/63d867b0df7a059f1f56a7b894f7d5a7.gif">
 
 - 🌱 I’m currently learning **Rust, React, Machine learning and games development**
 
