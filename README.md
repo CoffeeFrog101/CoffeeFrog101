@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Makkawi</h1>
 <h3 align="center">A passionate Software enginner from the UK</h3>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Rust, React, Machine learning and games development**
 
