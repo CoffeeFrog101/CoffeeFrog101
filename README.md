@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Makkawi</h1>
-<h3 align="center">A passionate Software enginner from the UK</h3>
+<h3 align="center">A Graduate Software enginner from Nottingham Trent University </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 - 🌱 I’m currently learning **Rust, React, Machine learning and games development**
 
