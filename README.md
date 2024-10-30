@@ -3,12 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 - 🌱 I’m currently learning **Rust, React, Machine learning and games development**
 
-- 💬 Ask me about **C++, Java, Python and nodeJs**
-
 - 📫 How to reach me **ziadmakkawi16@gmail.com**
-
-- ⚡ Fun fact **0_0**
-
 
 
 <h3 align="left">Connect with me:</h3>
